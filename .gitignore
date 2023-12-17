@@ -2,4 +2,4 @@
 *.js
 *.html
 
-!html_template/*.html
+!*/html_template/*.html
